@@ -1,7 +1,7 @@
-#![logo](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/iscte-iul-acm_logo.png "Programming = Fun") ISCTE-IUL ACM Competitive Programming Team
+# <a name="topo"></a>![logo](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/iscte-iul-acm_logo.png "Programming = Fun") ISCTE-IUL ACM Competitive Programming Team
 ---
 
-**Quick links:** &emsp; [Guia Novos Membros](#guia-para-novos-Membros) &emsp; &emsp; [Perfis dos Membros](#perfis-dos-membros-da-equipa)
+**Quick links:** &emsp; [Guia Novos Membros](#guia-para-novos-membros) &emsp; &emsp; [Perfis dos Membros](#perfis-dos-membros-da-equipa)
 
 **Olá! Bem vindo à nossa casa!** Se estás aqui é porque como nós, também tens interesse em resolver problemas difíceis através da programação e acima de tudo queres conviver com pessoas que partilham do teu entusiasmo por desafios! Se para além disso, ainda és do tipo que não baixa os braços nem por nada e que, depois de horas sem fim a arrancar cabelos para implementar o algoritmo da maneira mais eficiente possível, sorri orgulhoso por ver os resultados do seu esforço, então **estás sem dúvida no sítio certo!**
 
@@ -52,12 +52,12 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
    3. No **passo 4** em vez de fazer um Pull Request ao `fork`, fazer a este repositório, como explicado [aqui](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 <br></br>
-**Se chegaste até aqui muitos PARABÉNS! Acabaste de completar o processo de inscrição na equipa, agora é que vai começar a parte boa! :grinning: No futuro sempre que quiseres navegar neste README podes usar os Quick Links no [topo](#iscte-iul-acm-competitive-programming-team)!**
+**Se chegaste até aqui muitos PARABÉNS! Acabaste de completar o processo de inscrição na equipa, agora é que vai começar a parte boa! :grinning: No futuro sempre que quiseres navegar neste README podes usar os Quick Links no [topo](#topo)!**
 
 
 ---
 ### Perfis dos membros da equipa
-####![ups](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/andre_freire.jpg "Hey you!") *André Freire* :monkey_face:
+#### ![ups](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/andre_freire.jpg "Hey you!") *André Freire* :monkey_face:
 >Olá eu sou o André e gosto de resolver problemas!
 
 **Os meus links:** [git](https://github.com/Andre-Freire), [codeforces](http://codeforces.com/profile/andre_freire), [codechef](https://www.codechef.com/users/andre_freire), [hackerrank](https://www.hackerrank.com/andrefm_freire), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=929298)
