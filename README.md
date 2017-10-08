@@ -63,3 +63,9 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 >Olá eu sou o André, estou no terceiro ano da licenciatura em Engenharia Informática e gosto de resolver problemas! Comecei a programar há 4 anos e participei numa competição de programação pela primeira vez há 1 ano!
 
 **Os meus links:** [git](https://github.com/Andre-Freire), [codeforces](http://codeforces.com/profile/andre_freire), [codechef](https://www.codechef.com/users/andre_freire), [hackerrank](https://www.hackerrank.com/andrefm_freire), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=929298)
+
+
+### ![ups](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/Joao_Tiago_Aparicio.jpeg "Hey you!") *Joao Tiago Aparicio* :monkey_face:
+>Olá, eu sou o João Tiago, sou Apaixonado por resolver problemas e perceber como tudo funciona. Involvi me neste projeto porque adoro programar e é uma excelente oportunidade para o fazer com malta que partilha dos mesmos interesses! ^_^
+
+**Os meus links:** [git](https://github.com/jtaca), [codeforces](http://codeforces.com/profile/jtaca), [codechef](https://www.codechef.com/users/jtaca), [hackerrank](https://www.hackerrank.com/joaotiagoaparic1), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_comprofiler), [LinkedIn] (https://www.linkedin.com/in/joão-tiago-a-05484b104/
