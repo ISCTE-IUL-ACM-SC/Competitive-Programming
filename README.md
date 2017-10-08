@@ -47,10 +47,13 @@ Se ainda não tinhas ouvido falar dele, o git é uma ferramenta de colaboração
 2. (Opcional mas aconselhável) Converter para uma [conta de estudante](https://education.github.com/)
 
 Os próximos passos servem para finalizares o teu processo de introdução na equipa! Se vais ser membro, vamos precisar que adiciones a tua informação à secção [Perfis dos Membros](#perfis-dos-membros-da-equipa) deste README!
-3. Fazer `fork` deste repositório
+3. Fazer `fork` deste repositório (basta clickar no butão no topo desta página)
 4. Seguir este [tutorial](https://guides.github.com/activities/hello-world/), com as seguintes diferenças:
    1. No **passo 1** não vai ser preciso criar um novo repositório, mas sim utilizar o `fork` que acabou de ser feito
-   2. No **passo 3** alterar o README de modo a inserir-se como novo membro. Requisitos: inserir foto, nome, quick bio e links úteis de acordo com o padrão já existente!  ([Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links))
+   2. No **passo 3** fazer as seguintes alterações:
+      + navegar para a pasta `images/`, clickar no butão `Upload File` e inserir uma fotografia tua de 100x100 px
+      + no ficheiro README, abaixo do último membro atualmente registado inserir (segundo o padrão seguido pelos outros membros) a informação sobre ti! Este link é útil para perceber o código dos outros membros: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). 
+      + **NOTA IMPORTANTE**: utiliza o mesmo path que os outros membros usaram para apontar para as fotos (`https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/a_tua_imagem.jpg`) e não te preocupes se não for visível no teu `fork`, quando fizeres o Pull Request ficara visível.     
    3. No **passo 4** em vez de fazer um Pull Request ao `fork`, fazer a este repositório, como explicado [aqui](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 <br></br>
