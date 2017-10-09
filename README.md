@@ -53,7 +53,7 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
    2. No **passo 3** fazer as seguintes alterações:
       + navegar para a pasta `images/`, clickar no butão `Upload File` e inserir uma fotografia tua de 100x100 px
       + no ficheiro README, abaixo do último membro atualmente registado inserir (segundo o padrão seguido pelos outros membros) a informação sobre ti! Este link é útil para perceber o código dos outros membros: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). 
-      + **NOTA IMPORTANTE**: utiliza o mesmo path que os outros membros usaram para apontar para as fotos (`https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/a_tua_imagem.jpg`) e não te preocupes se não for visível no teu `fork`, quando fizeres o Pull Request ficara visível.     
+      + **NOTA IMPORTANTE**: utiliza o mesmo path que os outros membros usaram para apontar para as fotos (`https://github.com/ISCTE-IUL-Competitive-Programming/images/a_tua_imagem.jpg`) e não te preocupes se não for visível no teu `fork`, quando fizeres o Pull Request ficara visível.     
    3. No **passo 4** em vez de fazer um Pull Request ao `fork`, fazer a este repositório, como explicado [aqui](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 <br></br>
@@ -62,13 +62,13 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 
 ---
 ### Perfis dos membros da equipa
-### ![ups](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/andre_freire.jpg "Hey you!") *André Freire* :monkey_face:
+### ![ups](https://github.com/ISCTE-IUL-Competitive-Programming/images/andre_freire.jpg "Hey you!") *André Freire* :monkey_face:
 >Olá eu sou o André, estou no terceiro ano da licenciatura em Engenharia Informática e gosto de resolver problemas! Comecei a programar há 4 anos e participei numa competição de programação pela primeira vez há 1 ano!
 
 **Os meus links:** [git](https://github.com/Andre-Freire), [codeforces](http://codeforces.com/profile/andre_freire), [codechef](https://www.codechef.com/users/andre_freire), [hackerrank](https://www.hackerrank.com/andrefm_freire), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=929298)
 
 
-### ![ups](https://github.com/jtaca/ISCTE-IUL-Competitive-Programming/blob/master/images/rsz_joao_tiago_aparicio.jpg "Hey you!") *Joao Tiago Aparicio* :bowtie:
+### ![ups](https://github.com/ISCTE-IUL-Competitive-Programming/images/rsz_joao_tiago_aparicio.jpg "Hey you!") *Joao Tiago Aparicio* :bowtie:
 >Olá, eu sou o João Tiago, sou Apaixonado por resolver problemas e perceber como tudo funciona. Involvi me neste projeto porque adoro programar e é uma excelente oportunidade para o fazer com malta que partilha dos mesmos interesses! ^_^
 
 **Os meus links:** [git](https://github.com/jtaca), [codeforces](http://codeforces.com/profile/jtaca), [codechef](https://www.codechef.com/users/jtaca), [hackerrank](https://www.hackerrank.com/joaotiagoaparic1), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_comprofiler), [LinkedIn](https://www.linkedin.com/in/joão-tiago-a-05484b104/)
