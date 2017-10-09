@@ -1,4 +1,4 @@
-![logo](https://github.com/Andre-Freire/ISCTE-IUL-Competitive-Programming/blob/master/images/iscte-iul-acm_logo.png "Programming = Fun")
+![logo](https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/iscte-iul-acm_logo.png "Programming = Fun")
 # ISCTE-IUL ACM Competitive Programming Team
 ---
 
@@ -62,7 +62,7 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 
 ---
 ### Perfis dos membros da equipa
-### ![ups]https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/andre_freire.jpg "Hey you!") *André Freire* :monkey_face:
+### ![ups](https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/andre_freire.jpg "Hey you!") *André Freire* :monkey_face:
 >Olá eu sou o André, estou no terceiro ano da licenciatura em Engenharia Informática e gosto de resolver problemas! Comecei a programar há 4 anos e participei numa competição de programação pela primeira vez há 1 ano!
 
 **Os meus links:** [git](https://github.com/Andre-Freire), [codeforces](http://codeforces.com/profile/andre_freire), [codechef](https://www.codechef.com/users/andre_freire), [hackerrank](https://www.hackerrank.com/andrefm_freire), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=929298)
