@@ -72,3 +72,9 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 >Olá, eu sou o João Tiago, sou Apaixonado por resolver problemas e perceber como tudo funciona. Envolvi-me neste projeto porque adoro programar e é uma excelente oportunidade para o fazer com malta que partilha dos mesmos interesses! ^_^
 
 **Os meus links:** [git](https://github.com/jtaca), [codeforces](http://codeforces.com/profile/jtaca), [codechef](https://www.codechef.com/users/jtaca), [hackerrank](https://www.hackerrank.com/joaotiagoaparic1), [UVa OJ](https://uva.onlinejudge.org/index.php?option=com_comprofiler), [LinkedIn](https://www.linkedin.com/in/joão-tiago-a-05484b104/)
+
+
+### ![ups](https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/guilherme_azevedo.jpg "Hey you!") *Guilherme Azevedo* :grin: :nerd_face:
+>Olá eu sou o Guilherme, estou no terceiro ano da licenciatura em Engenharia Informática, gosto de resolver problemas e tentar sempre arranjar a melhor suloção! Participei numa competição de programação pela primeira vez há 1 ano, foi uma grande experiência e quero ver se da próxima corre melhor :stuck_out_tongue_winking_eye:
+
+**Os meus links:** [git](https://github.com/gssao-iscteiul), [codeforces](http://codeforces.com/profile/guilherme_azevedo), [codechef](https://www.codechef.com/users/gui_azevedo), [hackerrank](https://www.hackerrank.com/gssao)
