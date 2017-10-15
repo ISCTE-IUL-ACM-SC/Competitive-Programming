@@ -77,4 +77,4 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 ### ![ups](https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/guilherme_azevedo.jpg "Hey you!") *Guilherme Azevedo* :grin: :nerd_face:
 >Olá eu sou o Guilherme, estou no terceiro ano da licenciatura em Engenharia Informática, gosto de resolver problemas e tentar sempre arranjar a melhor suloção! Participei numa competição de programação pela primeira vez há 1 ano, foi uma grande experiência e quero ver se da próxima corre melhor :stuck_out_tongue_winking_eye:
 
-**Os meus links:** [git](https://github.com/gssao-iscteiul), [codeforces](http://codeforces.com/profile/guilherme_azevedo), [codechef](https://www.codechef.com/users/gui_azevedo), [hackerrank](https://www.hackerrank.com/gssao)
+**Os meus links:** [git](https://github.com/gssao-iscteiul), [codeforces](http://codeforces.com/profile/guilherme_azevedo), [codechef](https://www.codechef.com/users/gui_azevedo), [hackerrank](https://www.hackerrank.com/gssao), [LinkedIn](https://www.linkedin.com/in/guilherme-azevedo-988055141/)
