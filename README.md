@@ -79,8 +79,8 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 
 **Os meus links:** [git](https://github.com/gssao-iscteiul), [codeforces](http://codeforces.com/profile/guilherme_azevedo), [codechef](https://www.codechef.com/users/gui_azevedo), [hackerrank](https://www.hackerrank.com/gssao), [LinkedIn](https://www.linkedin.com/in/guilherme-azevedo-988055141/)
 
-### ![ups](https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/hugo_alexandre.jpg "Hey you!") *Hugo Alexandre* :nerd_face:
->Olá eu sou o Hugo, estou no terceiro ano da licenciatura em Engenharia Informática, gosto de resolver problemas e sou bastante competitivo. Gosto de avacalhar mas quando é para resolver problemas é mesmo para resolver problemas! :D
+### ![ups](https://github.com/habar-iscteiulpt/Competitive-Programming/blob/master/images/hugo_alexandre.jpg "Hey you!") *Hugo Alexandre* :nerd_face:
+>Olá eu sou o Hugo, estou no terceiro ano da licenciatura em Engenharia Informática, gosto de resolver problemas e sou bastante competitivo. Gosto de avacalhar mas quando é para trabalhar é mesmo para trabalhar! :D
 
 **Os meus links:** [git](https://github.com/habar-iscteiulpt), [codeforces](http://codeforces.com/profile/dlyx), [codechef](https://www.codechef.com/users/dlyx24), [hackerrank](https://www.hackerrank.com/hugito10), [Facebook](https://www.facebook.com/hugo.alexelele)
 
