@@ -52,7 +52,7 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
    1. No **passo 1** não vai ser preciso criar um novo repositório, mas sim utilizar o `fork` que acabou de ser feito
    2. No **passo 3** fazer as seguintes alterações:
       + navegar para a pasta `images/`, clickar no butão `Upload File` e inserir uma fotografia tua de 100x100 px
-      + no ficheiro README, abaixo do último membro atualmente registado inserir (segundo o padrão seguido pelos outros membros) a informação sobre ti! Este link é útil para perceber o código dos outros membros: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). 
+      + no ficheiro README, abaixo do último membro atualmente registado inserir (segundo o padrão seguido pelos outros membros) a informação sobre ti! Este link é útil para perceber o código dos outros membros: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links).
       + **NOTA IMPORTANTE**: utiliza o mesmo path que os outros membros usaram para apontar para as fotos (`https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/a_tua_imagem.jpg`) e não te preocupes se não for visível no teu `fork`, quando fizeres o Pull Request ficara visível.     
    3. No **passo 4** em vez de fazer um Pull Request ao `fork`, fazer a este repositório, como explicado [aqui](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
@@ -79,8 +79,7 @@ Os próximos passos servem para finalizares o teu processo de introdução na eq
 
 **Os meus links:** [git](https://github.com/gssao-iscteiul), [codeforces](http://codeforces.com/profile/guilherme_azevedo), [codechef](https://www.codechef.com/users/gui_azevedo), [hackerrank](https://www.hackerrank.com/gssao), [LinkedIn](https://www.linkedin.com/in/guilherme-azevedo-988055141/)
 
-### ![ups](https://github.com/habar-iscteiulpt/Competitive-Programming/blob/master/images/hugo_alexandre.jpg "Hey you!") *Hugo Alexandre* :nerd_face:
+### ![ups](https://github.com/ISCTE-IUL-ACM-SC/ISCTE-IUL-Competitive-Programming/blob/master/images/hugo_alexandre.jpg "Hey you!") *Hugo Alexandre* :nerd_face:
 >Olá eu sou o Hugo, estou no terceiro ano da licenciatura em Engenharia Informática, gosto de resolver problemas e sou bastante competitivo. Gosto de avacalhar mas quando é para trabalhar é mesmo para trabalhar! :D
 
 **Os meus links:** [git](https://github.com/habar-iscteiulpt), [codeforces](http://codeforces.com/profile/dlyx), [codechef](https://www.codechef.com/users/dlyx24), [hackerrank](https://www.hackerrank.com/hugito10), [Facebook](https://www.facebook.com/hugo.alexelele)
-
